@@ -1,6 +1,6 @@
 ## Victor Costa
 
-- 🔭 Atualmente estou estudando Spring
+- 🔭 Atualmente estou estudando o ecossistema do Spring
 - 💬 Pergunte-me sobre Java, Spring Boot e Sql
 - 📫 Como entrar em contato comigo: victo091198@gmail.com
 - ⚡️ Região onde moro: São Luís/Maranhão
