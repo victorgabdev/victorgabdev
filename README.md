@@ -1,7 +1,7 @@
 ## Victor Costa
 
-- 🔭 Atualmente estou estudando Nodejs na RocketSeat
-- 💬 Pergunte-me sobre JavaScript, TypeScript, NodeJs
+- 🔭 Atualmente estou estudando Spring
+- 💬 Pergunte-me sobre Java, Spring Boot e Sql
 - 📫 Como entrar em contato comigo: victo091198@gmail.com
 - ⚡️ Região onde moro: São Luís/Maranhão
 
