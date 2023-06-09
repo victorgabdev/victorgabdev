@@ -1,4 +1,4 @@
-## Victor Costa
+## Victor Gabriel
 
 - 🔭 Atualmente estou estudando o ecossistema do Spring
 - 💬 Pergunte-me sobre Java, Spring Boot e Spring Data
