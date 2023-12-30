@@ -1,6 +1,6 @@
 ## Victor Gabriel
 
-- 🔭 Atualmente estou estudando o ecossistema do Spring
+- 🔭 Atualmente estou estudando Testes e Microservices.
 - 💬 Pergunte-me sobre Java, Spring Boot e Spring Data
 - 📫 Como entrar em contato comigo: victorgabdev@gmail.com
 - ⚡️ Região onde moro: São Luís/Maranhão
