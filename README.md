@@ -1,7 +1,7 @@
 ## Victor Gabriel
 
-- 🔭 Atualmente estou estudando Testes e Microservices
-- 💬 Pergunte-me sobre Java, Spring Boot e Spring Data
+- 🔭 Atualmente estou estudando AngularJS e Metodologias Ágeis
+- 💬 Pergunte-me sobre Java, Spring e AngularJS
 - 📫 Como entrar em contato comigo: victorgabdev@gmail.com
 - ⚡️ Região onde moro: São Luís/Maranhão
 
