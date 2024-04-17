@@ -1,7 +1,7 @@
 ## Victor Gabriel
 
-- 🔭 Atualmente estou estudando AngularJS e Metodologias Ágeis
-- 💬 Pergunte-me sobre Java, Spring e AngularJS
+- 🔭 Atualmente estou estudando Microsserviços e Metodologias Ágei
+- 💬 Pergunte-me sobre Java, Spring e React
 - 📫 Como entrar em contato comigo: victorgabdev@gmail.com
 - ⚡️ Região onde moro: São Luís/Maranhão
 
