@@ -1,6 +1,6 @@
 ## Victor Gabriel
 
-- 🔭 Atualmente estou estudando Microsserviços e Metodologias Ágei
+- 🔭 Atualmente estou estudando Microsserviços e Metodologias Ágeis
 - 💬 Pergunte-me sobre Java, Spring e Angular
 - 📫 Como entrar em contato comigo: victorgabdev@gmail.com
 - ⚡️ Região onde moro: São Luís/Maranhão
